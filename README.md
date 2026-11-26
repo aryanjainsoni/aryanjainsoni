@@ -3,6 +3,7 @@
 ### 🚀 *Tech Enthusiast | Full-Stack Developer | AI & ML Explorer*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanjainsoni&label=Profile%20Views&color=blue&style=flat)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)]
 (https://aryanjainsoni.github.io/Portfolio/) 
 
