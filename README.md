@@ -5,8 +5,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanjainsoni&label=Profile%20Views&color=blue&style=flat)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://aryanjainsoni.github.io/Portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-jain-a39137321)
+
 [![X](https://img.shields.io/badge/X-@Aryanjainsoni-black?style=flat&logo=x)](https://x.com/Aryanjainsoni)
+
 [![GitHub](https://img.shields.io/badge/GitHub-aryanjainsoni-black?style=flat&logo=github)](https://github.com/aryanjainsoni)
 
 ---
