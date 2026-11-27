@@ -4,9 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanjainsoni&label=Profile%20Views&color=blue&style=flat)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)]
-(https://aryanjainsoni.github.io/Portfolio/) 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://aryanjainsoni.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-jain-a39137321)
+[![X](https://img.shields.io/badge/X-@Aryanjainsoni-black?style=flat&logo=x)](https://x.com/Aryanjainsoni)
 [![GitHub](https://img.shields.io/badge/GitHub-aryanjainsoni-black?style=flat&logo=github)](https://github.com/aryanjainsoni)
 
 ---
@@ -17,7 +17,11 @@ I'm a **B.Tech CSE student at ADYPU (CGPA: 9.1)** who enjoys building
 **full-stack apps** and exploring **AI, machine learning, and cloud deployment**.
 
 - 🎓 **B.Tech CSE Student @ ADYPU (CGPA: 9.1)**
+- 📜 **Certified:** Java Concepts & Java Essentials — Infosys Springboard (2025)
+- 💼 **Worked at:** [@aletheia-ai](https://github.com/aletheia-ai) (early-stage startup)
+- 🧩 **DSA:** Solving daily via Apex DSA Series — arrays, strings, hashing, recursion, sorting, Big-O
 - 🧠 **Exploring:** Machine Learning, LLMs, Full-Stack Development, Cloud Deployment
+- 📚 **Learning in public:** daily DSA + notes, committed to GitHub
 - 🌏 **Location:** Pune, Maharashtra, India
 
 ---
@@ -69,12 +73,28 @@ I'm a **B.Tech CSE student at ADYPU (CGPA: 9.1)** who enjoys building
 
 ### 🩺 Breast Cancer Prediction Model *(team project)*
 💻 **GitHub Repo:** https://github.com/aryanjainsoni/Breast_cancer_Prediction_model
-<!-- TODO: add live link after Streamlit deploy: 🔗 **Live App:** https://YOUR-APP.streamlit.app/ -->
+🔗 **Live App:** https://breastcancer-gk.streamlit.app/
 
 - ML classifier that predicts **Benign vs Malignant** tumours from diagnostic features.
+- Trained on **569 records (30 features)** → **96.5% accuracy, 100% precision, 95.1% F1**.
 - Pipeline: **data preprocessing → PCA → decision-tree training → SHAP explainability → Streamlit UI**.
 - Built with **Python, scikit-learn, pandas, Plotly, Streamlit**, together with
   [Ganesh Khetawat](https://github.com/gkganesh12) and [Pragyan Tiwari](https://github.com/PragyanTiwari).
+- **My role:** set up & maintained the repo, fixed dependency issues, deployed the Streamlit dashboard.
+
+### 🌐 Personal Portfolio
+💻 **GitHub Repo:** https://github.com/aryanjainsoni/Portfolio · 🔗 **Live:** https://aryanjainsoni.github.io/Portfolio/
+
+- Responsive single-page portfolio (About, Skills, Projects, Contact) with automatic light/dark theme.
+- Built with **HTML + CSS**, hosted on **GitHub Pages**.
+
+### 🏫 MentorLoop — Smart Campus App *(design)*
+- AI-enabled campus platform: QR attendance, timetable, notes sharing, real-time chat, push notifications.
+- Wrote the **SRS** with DFD, Use-Case, ER and system-flow diagrams.
+
+### 🌡️ Thermal-Sensor Security System *(design)*
+- Concept for detecting suspicious activity & hazards using thermal imaging, **ANNs** and anomaly detection, with SMS/email alerts.
+- Wrote the **SRS** with architecture, DFD, ER, use-case, activity and sequence diagrams.
 
 ---
 
