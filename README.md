@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://aryanjainsoni.github.io/Portfolio/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-jain-a39137321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-jain27)
 
 [![X](https://img.shields.io/badge/X-@Aryanjainsoni-black?style=flat&logo=x)](https://x.com/Aryanjainsoni)
 
